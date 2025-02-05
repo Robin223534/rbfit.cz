@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robin Blažíček - Osobní trenér</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        header {
+            background: #0077b6;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #005f91 3px solid;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            padding-bottom: 10px;
+        }
+        .content {
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .image-container img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #0077b6;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Robin Blažíček - Osobní trenér</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Ahoj! Jsem Robin Blažíček.</h2>
+            <p>Jsem osobní trenér a lektor skupinových lekcí Pilates, zdravotního cvičení, odporových a posilovacích tréninků. Moje mise? Pomoci lidem cítit se skvěle ve svém těle a užívat si pohyb!</p>
+            
+            <h3>Co u mě zažijete?</h3>
+            <ul>
+                <li><strong>Pohyb s lehkostí a radostí</strong> – cvičení nemusí být dřina, jde o to najít si svou cestu.</li>
+                <li><strong>Individuální přístup i energie skupiny</strong> – v individuálních lekcích ladím každý detail, ve skupině si užívám energii společného pohybu.</li>
+                <li><strong>Praktické tipy</strong> – ukážu vám, že i obyčejný ručník nebo míček se může stát skvělou pomůckou.</li>
+            </ul>
+            
+            <h3>Moje cesta</h3>
+            <p>Bývalý hokejista, který vyměnil led za podložku na cvičení. Zranění mě naučilo více naslouchat svému tělu a dnes pomáhám lidem pochopit, jak si udržet zdravý a funkční pohyb v každodenním životě. Od roku 2015 vedu individuální i skupinové lekce, kde propojuji zdravotní cvičení, Pilates a posilování.</p>
+            
+            <h3>Moje kvalifikace</h3>
+            <ul>
+                <li><strong>IQ pohyb akademie:</strong> Strukturální pohybová integrace, Pilates Clinic Method Matwork, Instruktor fitness</li>
+                <li><strong>Ronnie.cz:</strong> Instruktor Fitness Trenér</li>
+                <li><strong>Academy Face Czech:</strong> Hluboký stabilizační systém páteře, Fit a Overball</li>
+                <li><strong>Masérská a trenérská škola:</strong> Masérský kurz</li>
+            </ul>
+            
+            <div class="image-container">
+                <img src="rb_03.png" alt="RB Fit Logo">
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Kontakt: info@rbfit.cz | Tel: +420 123 456 789</p>
+    </footer>
+</body>
+</html>
